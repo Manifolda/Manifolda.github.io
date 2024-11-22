@@ -23,7 +23,7 @@ order: 4
 
 🌐 **互联网踪迹：**
 
-* [GitHub](https://github.com/manifolds-stats)
+* [GitHub](https://github.com/Manifolda)
 
 📧 **联系方式：**
 
@@ -49,7 +49,7 @@ Welcome to my Blog! It's generated from a static web page built using Jekyll on 
 
 🌐 **Online Presence:**
 
-* [GitHub](https://github.com/manifolds-stats)
+* [GitHub](https://github.com/Manifolda)
 
 📧 **Contact information:**
 
