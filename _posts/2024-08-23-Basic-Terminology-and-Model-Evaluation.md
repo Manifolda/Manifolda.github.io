@@ -1,7 +1,7 @@
 ---
 title: Basic Terminology and Model Evaluation
 description: Basic terminology and model evaluation
-author: longyuan
+author: manifolda
 date: 2024-08-23 
 categories: [Artificial Intelligence, Machine Learning]
 tags: [machine learning]
