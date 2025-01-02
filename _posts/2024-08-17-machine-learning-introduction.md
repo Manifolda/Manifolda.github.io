@@ -1,7 +1,7 @@
 ---
 title: Introduction to Machine Learning
 description: Introduction to machine learning
-author: longyuan
+author: manifolda
 date: 2024-08-17 
 categories: [Artificial Intelligence, Machine Learning]
 tags: [machine learning]
