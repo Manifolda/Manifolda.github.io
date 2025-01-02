@@ -8,7 +8,7 @@ order: 4
 > 夜静海涛三万里，月明飞锡下天风。  
 >                   --- 王阳明
 
-你好，我是龙渊，一位统计学大二学生。
+你好，我是manifolda，一位统计学大二学生。
 
 欢迎来到我的 Blog！这是一个由在 Github 上使用 Jekyll 构建的静态网页生成的 Blog。此 Blog 主要用于记录我的学习笔记和对于统计学与数学的想法，不定期更新。随时欢迎你来访问探索。
 
@@ -25,15 +25,12 @@ order: 4
 
 * [GitHub](https://github.com/Manifolda)
 
-📧 **联系方式：**
-
-* Email: [longyuannew@163.com]
 
 ---
 
 ## English
 
-Hey there, I'm longyuan, a freshman in statistics.
+Hey there, I'm manifolda, a freshman in statistics.
 
 Welcome to my Blog! It's generated from a static web page built using Jekyll on Github. Here, I share my study notes and ideas about statistics and mathematics. While updates may be irregular, feel free to drop by anytime to explore.
 
@@ -50,7 +47,3 @@ Welcome to my Blog! It's generated from a static web page built using Jekyll on 
 🌐 **Online Presence:**
 
 * [GitHub](https://github.com/Manifolda)
-
-📧 **Contact information:**
-
-* Email: [longyuannew@163.com]
