@@ -1,7 +1,7 @@
 ---
 
 title: My First Post
-author: longyuan
+author: manifolda
 date: 2024-08-14 17:10:00 +0800
 categories: [Essay, Introduction]
 tags: [first blog]
