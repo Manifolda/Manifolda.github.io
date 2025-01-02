@@ -14,12 +14,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: longyuan # the main title
+title: manifolda # the main title
 
 tagline: Share interesting things # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A personal blog by longyuan.
+  A personal blog by manifolda.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,13 +29,13 @@ github:
   username: Manifolda # change to your github username
 
 twitter:
-  username: # Manifolds03 # change to your twitter username
+  username: ## change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: longyuan
-  email: longyuannew2024@163.com # change to your email address
+  name: manifolda
+  email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
