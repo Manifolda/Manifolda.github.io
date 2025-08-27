@@ -11,8 +11,8 @@ tags: [first blog]
 **欢迎来到我的博客！**
 
 🔍 **关键词：**
-* 统计 / 数学 /
-* C / Python / MATLAB / Mathematica / LaTeX / HTML / Lean 
+* Statistics / Learning theory / Deep Learning
+
 
 
 
