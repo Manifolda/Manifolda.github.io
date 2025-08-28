@@ -14,7 +14,7 @@ order: 4
 - 2023/09 - ：统计学（统计与数据科学）拔尖班，统计学院，中国人民大学。
 
 🔍 **关键词：**
-* 统计 / 数学 
+* 数学 / 深度学习理论
 * 围棋 / 乒乓球 / 音乐
 * C / Python / MATLAB / Mathematica / LaTeX / HTML / Lean
 * 中文 / 英语 / 法语
@@ -28,16 +28,14 @@ order: 4
 
 ## English
 
-Hey there, I'm manifolda, a freshman in statistics.
-
-Welcome to my Blog! It's generated from a static web page built using Jekyll on Github. Here, I share my study notes and ideas about statistics and mathematics. While updates may be irregular, feel free to drop by anytime to explore.
+Welcome to my personal website! It's generated from a static web page built using Jekyll on Github. Here, I share my study notes and ideas about mathematics and machine learning and deep learning theory!
 
 🎓 **Education:**
-- 2023/09 - : Statistics, School of Statistics, Renmin University of China, China.
+- 2023/09 - : Statistics & Data Science, School of Statistics, Renmin University of China, China.
 
 🔍 **Keywords:**
 
-* Statistics / Mathematics / Artificial Intelligence 
+* Mathematics / Deep Learning Theory
 * Weiqi / Ping-pong / Music
 * C / Python / MATLAB / Mathematica / LaTeX / HTML / Lean
 * Chinese / English / French
