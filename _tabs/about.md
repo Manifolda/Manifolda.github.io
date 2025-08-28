@@ -14,7 +14,7 @@ order: 4
 - 2023/09 - ：统计学（统计与数据科学）拔尖班，统计学院，中国人民大学。
 
 🔍 **关键词：**
-* 数学 / 深度学习理论
+* 数学 / 机器学习 / 深度学习
 * 围棋 / 乒乓球 / 音乐
 * C / Python / MATLAB / Mathematica / LaTeX / HTML / Lean
 * 中文 / 英语 / 法语
@@ -35,7 +35,7 @@ Welcome to my personal website! It's generated from a static web page built usin
 
 🔍 **Keywords:**
 
-* Mathematics / Deep Learning Theory
+* Mathematics / Machine Learning / Deep Learning
 * Weiqi / Ping-pong / Music
 * C / Python / MATLAB / Mathematica / LaTeX / HTML / Lean
 * Chinese / English / French
