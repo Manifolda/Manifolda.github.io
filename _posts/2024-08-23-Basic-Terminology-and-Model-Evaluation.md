@@ -3,7 +3,7 @@ title: Basic Terminology and Model Evaluation
 description: Basic terminology and model evaluation
 author: manifolda
 date: 2024-08-23 
-categories: [Artificial Intelligence, Machine Learning]
+categories: [Machine Learning, Basic]
 tags: [machine learning]
 pin: true
 math: true
@@ -93,3 +93,4 @@ $$
 
 
 ![alt text](../assets/ccbyncnd.png)
+
