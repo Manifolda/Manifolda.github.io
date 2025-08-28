@@ -3,7 +3,7 @@ title: Introduction to Machine Learning
 description: Introduction to machine learning
 author: manifolda
 date: 2024-08-17 
-categories: [Artificial Intelligence, Machine Learning]
+categories: [Machine Learning, Basic]
 tags: [machine learning]
 pin: true
 math: true
@@ -61,3 +61,4 @@ image:
 
 
 ![alt text](../assets/ccbyncnd.png)
+
