@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: manifolda # the main title
 
-tagline: Share interesting things # it will display as the sub-title
+tagline: Mathematics & Deep Learning # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A personal blog by manifolda.
