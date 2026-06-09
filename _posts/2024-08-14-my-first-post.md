@@ -11,7 +11,7 @@ tags: [first blog]
 **欢迎来到我的博客！**
 
 🔍 **关键词：**
-* Statistics / Learning theory / Deep Learning
+* Statistics / Deep Learning Theory
 
 
 
